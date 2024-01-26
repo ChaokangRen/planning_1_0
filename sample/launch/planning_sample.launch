@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="planning_sample" name="planning_sample" type="planning_sample" respawn="false" output="screen">
+    </node>
+</launch>
